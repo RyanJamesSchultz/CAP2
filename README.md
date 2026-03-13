@@ -9,7 +9,7 @@ References:
             R. Schultz, (2026)
             Improving the resolvability of Mmax truncation via deeper order statistics
             Geophysical Journal International, XX, xx.
-            doi: xxx.
+            doi: 10.1093/gji/ggag110.
             
             R. Schultz, (2024)
             Inferring maximum magnitudes from the ordered sequence of large earthquakes
