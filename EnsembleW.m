@@ -180,7 +180,7 @@ function [W]=getEW(M,m1,b,kd,S, GRtype_flag,NLEtype_flag,Sa,dMa,ba,m2a)
   Wb=Wb./sum(Wb,1);
   
   % Average between the two weights.
-  W=exp(log(Wa)+log(Wb));
+  W=exp((log(Wa)+log(Wb))/2);
   %W=Wa;
   %W=Wb;
   W=W./sum(W,1);
